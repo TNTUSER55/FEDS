@@ -1,4 +1,3 @@
 # FEDS
-version .50 NOT WORKING!
-This project is not released yet, check back soon to see it working.
-This is a (F)ree (E)ncription and (D)ecryption (S)cheme.
+Version 1.0.1
+Works with sockets, AES, and SHA256
